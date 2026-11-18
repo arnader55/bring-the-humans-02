@@ -23,7 +23,7 @@ The idea is simple:
 
 Every bounty opens with its whole reward locked in escrow, so a prize you win is actually there to claim. A few older bounties pay from make.fun's reward wallet instead — the bounty page says which.
 
-There is also a second way to earn that costs no building at all: **referrals** (see section 8).
+There is also a second way to earn that costs no building at all: **referrals** (see section 9).
 
 ---
 
